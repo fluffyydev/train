@@ -1,2 +1,2 @@
 # train
-A murder mystery that takes place on a train.
+murder mystery that takes place on a train
